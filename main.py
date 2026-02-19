@@ -12,8 +12,8 @@ from requests.exceptions import ConnectionError, Timeout
 import json
 
 # ================= CONFIG =================
-BOT_TOKEN = "8051656446:AAGD5PuoQLQCj4v0oYd4eJkTXFkuNGnkmF4"
-GROUP_ID = -100341463851
+BOT_TOKEN = "8322183617:AAGX4XE7D48ZgwhR-2YZqlMoKy7_7XsUrhc"
+GROUP_ID = -1003414638512
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 12)",
